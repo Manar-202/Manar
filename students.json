@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed Ali",
+    "city": "Cairo"
+  },
+  {
+    "id": 2,
+    "name": "Mona Hassan",
+    "city": "Alexandria"
+  },
+  {
+    "id": 3,
+    "name": "Omar Youssef",
+    "city": "Giza"
+  },
+  {
+    "id": 4,
+    "name": "Salma Nasser",
+    "city": "Aswan"
+  },
+  {
+    "id": 5,
+    "name": "Khaled Mahmoud",
+    "city": "Suez"
+  },
+  {
+    "id": 6,
+    "name": "Hana Adel",
+    "city": "Luxor"
+  },
+  {
+    "id": 7,
+    "name": "Manar Amer",
+    "city": "Dubai"
+  }
+]
